@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ApiUsuarios.Controllers.UsuariosController",
+    "Method": "Listar",
+    "RelativePath": "api/Usuarios/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
